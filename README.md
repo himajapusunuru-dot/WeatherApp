@@ -1,4 +1,4 @@
-🌤️ Weather App
+## 🌤️ Weather App
 
 A simple and interactive React-based Weather Application that provides live weather updates for cities across India. The app fetches real-time weather data using a public API and dynamically updates the UI, including changing the background image based on weather conditions.
 
