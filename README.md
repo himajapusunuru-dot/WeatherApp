@@ -33,21 +33,17 @@ OpenWeather / Public Weather API
 
 1. Clone the repository
 
-git clone https://github.com/himajapusunuru-dot/WeatherApp
+   git clone https://github.com/himajapusunuru-dot/WeatherApp
 
 
 2. Navigate to the project folder
+   cd WeatherApp
+   
+4. Install dependencies
+   npm install
 
-cd WeatherApp
-
-
-3. Install dependencies
-
-npm install
-
-4. Start the app
-
-npm start
+5. Start the app
+   npm start
 
 📸 Preview
 
