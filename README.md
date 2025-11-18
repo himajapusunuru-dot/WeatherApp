@@ -2,7 +2,7 @@
 
 A simple and interactive React-based Weather Application that provides live weather updates for cities across India. The app fetches real-time weather data using a public API and dynamically updates the UI, including changing the background image based on weather conditions.
 
-🚀 Features
+## 🚀 Features
 
 🔍 Search weather by city
 Enter the name of any Indian city to get instant weather details.
@@ -19,7 +19,7 @@ Background images adapt based on current weather (clear, cloudy, rainy, etc.).
 🎨 Clean & Modern UI
 Designed with a simple and elegant interface for easy usage.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 React.js
 
@@ -29,23 +29,23 @@ CSS / Styled Components
 
 OpenWeather / Public Weather API
 
-📦 Installation & Setup
+## 📦 Installation & Setup
 
-Clone the repository
+1. Clone the repository
 
 git clone https://github.com/himajapusunuru-dot/WeatherApp
 
 
-Navigate to the project folder
+2. Navigate to the project folder
 
 cd WeatherApp
 
 
-Install dependencies
+3. Install dependencies
 
 npm install
 
-Start the app
+4. Start the app
 
 npm start
 
