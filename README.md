@@ -37,12 +37,15 @@ OpenWeather / Public Weather API
 
 
 2. Navigate to the project folder
+   
    cd WeatherApp
    
 4. Install dependencies
+   
    npm install
 
 5. Start the app
+   
    npm start
 
 📸 Preview
